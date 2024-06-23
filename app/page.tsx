@@ -9,7 +9,7 @@ const GrafanaEmbed = () => {
         <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
       </Head>
       <iframe
-        src="http://200.137.220.250:3000/public-dashboards/0cc223ae37164ef4ac570a67830d2dfe?orgId=1"
+        src="http://200.137.220.39:3000/public-dashboards/bd7064aaa1374d12b6673fa71c66ae49"
         width="100%"
         height="1080px"
         frameBorder="0"
